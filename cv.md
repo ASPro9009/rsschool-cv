@@ -34,3 +34,9 @@ Coming soon
      * 2016 — «In-depth preparation of schoolchildren for creative tasks of the Unified State Exam and Olympiads in social studies». Foxford, No. 013024, date of issue: 09/16/2016
      * 2016 — «The methodology of performing the tasks of the Unified State Exam in history with a detailed answer». Foxford, No. 013023, date of issue: 09/16/2016
 
+## **Languages:**
+* English: A2 (I have some speaking practice now, because i live in Danmark and here all speak english)
+* German: А1
+
+## **My study project:**
+CV: https://github.com/ASPro9009/rsschool-cv 
