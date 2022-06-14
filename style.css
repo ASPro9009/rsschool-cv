@@ -67,3 +67,23 @@ html {
   .section-item a:hover {
     color: #4d2323;
   }
+
+  .section-title {
+
+  }
+
+  .contact-list {
+
+  }
+
+  .education-list {
+
+  }
+  
+  .languages-list {
+
+  }
+  .note-code {
+    font-style: italic;
+    font-weight: 700;
+  }
