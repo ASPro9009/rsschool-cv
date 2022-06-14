@@ -5,6 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: #ffffff;
 } 
 
 html {
@@ -16,15 +17,15 @@ html {
   } 
 
 .header {
-    border: 1px solid red;
+    background-color: #690303
 }
 
 .main {
-    border: 1px solid red;
+    
 }
 
 .footer {
-    border: 1px solid red;
+    background-color: #690303;
 }
 
 .container {
@@ -44,10 +45,11 @@ html {
   }
 
   .nav-item {
-
+   color: aliceblue;
   }
 
   .nav-link {
+    color: #daa1a1;
     padding: 0 20px;
     line-height: 50px;
     transition: .3s;
@@ -55,7 +57,7 @@ html {
   }
 
   a:hover {
-    background: #032c6d; 
+    background: #8b2c2c; 
     color: rgb(255, 255, 255);
     cursor: pointer;
   }
@@ -70,7 +72,7 @@ html {
   }
 
   .section-title {
-
+ 
   }
 
   .contact-list {
@@ -98,6 +100,10 @@ html {
     width: 50%;
   }
 
+  .pre {
+
+  }
+
   @media (max-width: 768px) {
     .section {
       width: 100%;
@@ -105,7 +111,7 @@ html {
   } 
 
   .footer-github {
-
+    color: #daa1a1;
   }
 
   .footer-year {
@@ -113,5 +119,5 @@ html {
   }
 
   .footer-rsschol {
-    
+
   }
